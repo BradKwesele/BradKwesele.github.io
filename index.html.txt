@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0>
+    <title>Brad Kwesele - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Brad Kwesele</h1>
+        <p>Cybersecurity Student & IT Professional</p>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am a motivated and ambitious student currently pursuing a 
+Bachelor of Science in Cybersecurity and Information Assurance at Western 
+Governors University.</p>
+         </section>
+         <section id="projects">
+             <h2>Projects</h2>
+             <!-- I'll add my projects here later -->
+         </section>
+         <section id="contact">
+             <h2>Contact</h2>
+             <p>Email: Bradkwesele@gmail.com</p>
+             <p>Linkedin: <a href="https://www.linkedin.com/in/brad-
+kwesele/">Brad Kwesele</a></p>
+         </section>
+     </main>
+ </body>
+ </html>
+ 
+    
+
+         
