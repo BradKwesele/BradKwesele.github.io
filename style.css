@@ -1,8 +1,11 @@
+/* Existing styles */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f0f0f0; /* New: Light gray background */
+    color: #333; /* New: Dark gray text color */
 }
 
 header, main {
@@ -17,4 +20,35 @@ h1, h2 {
 
 a {
     color: #0066cc;
+}
+
+/* New styles */
+header {
+    background-color: #4a4a4a; /* Dark gray header background */
+    color: white; /* White text in header */
+    padding: 30px 20px; /* More padding in header */
+    text-align: center; /* Center align header content */
+}
+
+main {
+    background-color: white; /* White background for main content */
+    padding: 30px; /* More padding in main content */
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+}
+
+h1 {
+    margin-bottom: 10px; /* Space below h1 */
+}
+
+h2 {
+    border-bottom: 2px solid #0066cc; /* Blue underline for h2 */
+    padding-bottom: 10px; /* Space below the underline */
+}
+
+a:hover {
+    text-decoration: none; /* Remove underline on hover */
+}
+
+#contact p {
+    margin: 5px 0; /* Less space between contact items */
 }
